@@ -14,7 +14,7 @@
   <img align="center" alt="GUI-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="GUI-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="GUI-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="GUI-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="GUI-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
   <img height="120em" align="right" alt="GUI-yoda" src="https://github.com/GuilhermeVozniak/GuilhermeVozniak/blob/main/Captura%20de%20Tela%202021-09-14%20às%2009.52.51.png?raw=true">
 </div>
 
