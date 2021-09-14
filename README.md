@@ -1,4 +1,4 @@
-## Olá, eu sou o Guilherme Vozniak!
+## Olá, eu sou o Guilherme Vozniak! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 <!-- GITHUB Stats abaixo-->
 <div>
@@ -33,3 +33,8 @@
   ![Snake animation/animação da cobrinha](https://github.com/GuilhermeVozniak/GuilhermeVozniak/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
+<!--Total de Visitas-->
+  <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/GuilhermeVozniak/count.svg" />
+ </p>
