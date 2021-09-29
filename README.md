@@ -4,9 +4,19 @@
 <div>
   <a href="https://github.com/GuilhermeVozniak">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeVozniak&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    
+<!-- Podium -->
+<br>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=GuilhermeVozniak&theme=tokyonight"/>
+    
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeVozniak&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+<!--TROFEUS-->
+  
+<img width="99%" src="https://github-profile-trophy.vercel.app/?username=GuilhermeVozniak&row=1&theme=darkhub"/>
+
+  
 <!-- Icones da linguagens abaixo-->
 <div style="display: inline_block"><br>
   <img align="center" alt="GUI-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
