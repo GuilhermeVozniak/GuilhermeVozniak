@@ -14,8 +14,8 @@
     </a>
     <!--TROFEUS-->
     <br><br>
-
     <img width="99%" src="https://github-profile-trophy.vercel.app/?username=GuilhermeVozniak&row=1&theme=darkhub"/>
+    
   </div> 
 
   
