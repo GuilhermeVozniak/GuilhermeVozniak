@@ -2,19 +2,21 @@
 
 <!-- GITHUB Stats abaixo-->
 <div>
-  <a href="https://github.com/GuilhermeVozniak">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeVozniak&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    
-<!-- Podium -->
-<br>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=GuilhermeVozniak&theme=tokyonight"/>
-    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeVozniak&layout=compact&langs_count=7&theme=dark"/>
-</div>
+  <div align="center">
+    <a href="https://github.com/GuilhermeVozniak">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeVozniak&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    </a>
+    <!-- Podium -->
+    <br>
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=GuilhermeVozniak&theme=tokyonight"/>
+    <a href="https://github.com/GuilhermeVozniak">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeVozniak&layout=compact&langs_count=7&theme=dark"/>
+    </a>
+    <!--TROFEUS-->
+    <br><br>
 
-<!--TROFEUS-->
-  
-<img width="99%" src="https://github-profile-trophy.vercel.app/?username=GuilhermeVozniak&row=1&theme=darkhub"/>
+    <img width="99%" src="https://github-profile-trophy.vercel.app/?username=GuilhermeVozniak&row=1&theme=darkhub"/>
+  </div> 
 
   
 <!-- Icones da linguagens abaixo-->
@@ -25,11 +27,15 @@
   <img align="center" alt="GUI-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="GUI-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="GUI-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <img align="center" alt="GUI-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+   <img align="center" alt="GUI-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="GUI-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
   <img align="center" alt="GUI-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+   <img align="center" alt="GUI-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="GUI-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="GUI-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="GUI-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="GUI-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+  <img align="center" alt="GUI-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img height="120em" align="right" alt="GUI-yoda" src="https://github.com/GuilhermeVozniak/GuilhermeVozniak/blob/main/Captura%20de%20Tela%202021-09-14%20às%2009.52.51.png?raw=true">
 </div>
 
