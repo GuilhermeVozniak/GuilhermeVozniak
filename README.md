@@ -3,23 +3,27 @@
 <!-- GITHUB Stats abaixo-->
 <div>
   <div align="center">
+    <!-- Streak -->
     <a href="https://github.com/GuilhermeVozniak">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeVozniak&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+      <img  height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=GuilhermeVozniak&theme=tokyonight"/>
     </a>
-    <!-- Podium -->
-    <br>
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=GuilhermeVozniak&theme=tokyonight"/>
+    <br />
+    <!-- Streak -->
     <a href="https://github.com/GuilhermeVozniak">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeVozniak&layout=compact&langs_count=7&theme=dark"/>
+      <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeVozniak&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    </a>
+    <!-- Most Used Languages -->
+    <a href="https://github.com/GuilhermeVozniak">
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeVozniak&layout=compact&langs_count=7&theme=dark"/>
     </a>
     <!--TROFEUS-->
-    <br><br>
-    <img width="99%" src="https://github-profile-trophy.vercel.app/?username=GuilhermeVozniak&row=1&theme=darkhub"/>
-    
+    <br />
+    <img height="120em" src="https://github-profile-trophy.vercel.app/?username=GuilhermeVozniak&row=1&theme=darkhub"/>
   </div> 
 
+<br />
   
-<!-- Icones da linguagens abaixo-->
+<!-- Icones das linguagens abaixo-->
 <div style="display: inline_block;"><br>
   <img align="center" alt="GUI-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="GUI-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -52,7 +56,7 @@
  
 </div>
   
-<!--Total de Visitas-->
-  <p align="center"> 
+<!--Total de Visitas
+  <!--<p align="left"> 
    <img alingn="center" src="https://profile-counter.glitch.me/GuilhermeVozniak/count.svg" />
- </p>
+ </p>-->
