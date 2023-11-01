@@ -51,7 +51,52 @@
   <a href = "mailto:gui336699@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://br.linkedin.com/in/guilherme-vozniak-229428122" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/fAfsdCb3" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
- 
+
+  ```
+package main
+
+type Human struct {
+    Name        string
+    Nationality string
+    Languages   []string
+}
+
+type Guilherme struct {
+    Human
+    Technologies Technologies
+}
+
+type Technologies struct {
+    APIs           []string
+    GoLang         []string
+    Typescript     []string
+    Events         []string
+    Design         []string
+    ORMs           []string
+    CloudComputing []string
+}
+
+func NewGuilherme() *Guilherme {
+    return &Guilherme{
+      Human: Human{
+          Name:        "Guilherme Vozniak",
+          Nationality: "Brazilian",
+          Languages:   []string{"Portuguese", "English", "Spanish"},
+      },
+      Technologies: Technologies{
+          APIs:           []string{"REST", "SOAP", "GraphQL"},
+          GoLang:         []string{"GinGonic", "Gorilla"},
+          Typescript:     []string{"Next", "React.js", "Angular.js", "Vue", "Node", "Express", "NestJS"},
+          Events:         []string{"RabbitMQ", "Kafka", "Redis"},
+          Design:         []string{"Styled-Components", "Bootstrap", "Material-UI"},
+          ORMs:           []string{"GORM", "TypeOrm", "Mongoose"},
+          CloudComputing: []string{"Serverless", "Docker", "Kubernetes", "Jenkins"},
+      },
+    }
+}
+
+```
+    
   ![Snake animation/animação da cobrinha](https://github.com/GuilhermeVozniak/GuilhermeVozniak/blob/output/github-contribution-grid-snake.svg)
  
 </div>
