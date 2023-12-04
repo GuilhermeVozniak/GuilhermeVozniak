@@ -111,6 +111,8 @@ func NewGuilherme() *Guilherme {
 
   
 <!--Total de Visitas-->
+<div align="center">
  <p align="left"> 
    <img alingn="center" src="https://profile-counter.glitch.me/GuilhermeVozniak/count.svg" />
  </p>
+</div>
