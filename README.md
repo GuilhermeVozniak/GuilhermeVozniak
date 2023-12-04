@@ -9,9 +9,9 @@
     </a>
     <br />
     <!-- Streak -->
-    <a href="https://github.com/GuilhermeVozniak">
+    <!-- <a href="https://github.com/GuilhermeVozniak">
       <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeVozniak&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    </a>
+    </a> -->
     <!-- Most Used Languages -->
     <a href="https://github.com/GuilhermeVozniak">
       <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeVozniak&layout=compact&langs_count=7&theme=dark"/>
