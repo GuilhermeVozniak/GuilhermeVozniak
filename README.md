@@ -103,13 +103,14 @@ func NewGuilherme() *Guilherme {
 ```
 </div>   
 
-<div align="center">
+<!-- <div align="center">
    
   ![Snake animation/animação da cobrinha](https://github.com/GuilhermeVozniak/GuilhermeVozniak/blob/output/github-contribution-grid-snake.svg)
  
-</div>
+</div>-->
+
   
-<!--Total de Visitas
-  <!--<p align="left"> 
+<!--Total de Visitas-->
+ <p align="left"> 
    <img alingn="center" src="https://profile-counter.glitch.me/GuilhermeVozniak/count.svg" />
- </p>-->
+ </p>
