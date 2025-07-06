@@ -78,6 +78,8 @@ type Technologies struct {
     Events         []string
     Design         []string
     ORMs           []string
+    Databases      []string
+    CloudProviders []string
     CloudComputing []string
 }
 
@@ -91,10 +93,12 @@ func NewGuilherme() *Guilherme {
       Technologies: Technologies{
           APIs:           []string{"REST", "SOAP", "GraphQL"},
           GoLang:         []string{"GinGonic", "Gorilla"},
-          Typescript:     []string{"Next", "React.js", "Angular.js", "Vue", "Node", "Express", "NestJS"},
-          Events:         []string{"RabbitMQ", "Kafka", "Redis"},
-          Design:         []string{"Styled-Components", "Bootstrap", "Material-UI"},
+          Typescript:     []string{"Next", "React.js", "Angular.js", "Vue", "Node", "Express", "NestJS", "Electron"},
+          Events:         []string{"RabbitMQ", "Kafka", "Redis", "SQS", "SNS"},
+          Design:         []string{"Shadcn-ui", "Radix-ui", "Styled-Components", "Bootstrap", "Material-UI"},
           ORMs:           []string{"GORM", "TypeOrm", "Mongoose"},
+          Databases:      []string{"MYSQL", "Postgres", "MongoDB", "Elasticsearch", "Pinecone", "Opensearch"}
+          CloudProviders: []string{"AWS", "GCP"}, 
           CloudComputing: []string{"Serverless", "Docker", "Kubernetes", "Jenkins"},
       },
     }
