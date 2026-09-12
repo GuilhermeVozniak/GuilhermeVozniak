@@ -25,6 +25,14 @@
 
 ---
 
+### 💻 Terminal profile
+
+<p align="center">
+  <img src="assets/terminal-profile.svg" width="1000" alt="Terminal profile of Guilherme Vozniak with an ASCII avatar. Full-Stack Software Engineer in Italy working with Go, TypeScript, AWS and GCP. Speaks Portuguese, English and Italian. Contact: guilherme.voziak.a@gmail.com." />
+</p>
+
+---
+
 ### 🧙‍♂️ About me
 
 <img align="right" height="140" alt="GUI-yoda" src="https://github.com/GuilhermeVozniak/GuilhermeVozniak/blob/main/Captura%20de%20Tela%202021-09-14%20às%2009.52.51.png?raw=true">

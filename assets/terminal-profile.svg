@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="550" viewBox="0 0 1000 550" role="img" aria-labelledby="title description">
+  <title id="title">Guilherme Vozniak — terminal profile</title>
+  <desc id="description">ASCII portrait of Guilherme wearing glasses and a suit beside Guilherme's profile: Full-Stack Software Engineer in Italy. Go, TypeScript, Node.js, React, AWS and GCP. Speaks Portuguese, English and Italian. Contact: guilherme.voziak.a@gmail.com.</desc>
+  <rect x="1" y="1" width="998" height="548" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <path d="M15 1H985Q999 1 999 15V46H1V15Q1 1 15 1" fill="#161b22"/>
+  <circle cx="24" cy="24" r="5" fill="#ff5f57"/>
+  <circle cx="43" cy="24" r="5" fill="#febc2e"/>
+  <circle cx="62" cy="24" r="5" fill="#28c840"/>
+  <g font-family="'DejaVu Sans Mono', 'Liberation Mono', Menlo, Consolas, monospace" font-size="13">
+    <text x="86" y="29" fill="#8b949e">guilherme@github: ~</text>
+    <text x="30" y="78" fill="#7ee787">❯ <tspan fill="#c9d1d9"> fastfetch --profile</tspan></text>
+    <text x="27" y="112.00" fill="#8babbc" font-size="7.8" xml:space="preserve">,:::,,,:,,,,,,.,,,,,:;:irrrrrrirri;:ii;;;;;:;;;iirrsXAAXsssssXXA</text>
+    <text x="27" y="119.75" fill="#8babbc" font-size="7.8" xml:space="preserve">::::,,,,,.,,,,.,,,,,:;:irrssrrirsXsii;;;;:::;;;;irrsXAXsrssXXAAA</text>
+    <text x="27" y="127.50" fill="#8babbc" font-size="7.8" xml:space="preserve">:::,..,,..,..,..,,.,:::;r;;::::;XH#G3As;;:::;;;;irrsXAXsrsXAXXXs</text>
+    <text x="27" y="135.25" fill="#8babbc" font-size="7.8" xml:space="preserve">,::,..,,.....,..,,.,::....,,,:;s3#SGH2XXXi::;;;;irrssXXssAXXssss</text>
+    <text x="27" y="143.00" fill="#8babbc" font-size="7.8" xml:space="preserve">,::,..,..... .,.,,.,. . .......,sMH3Xsrirr;:;;;;irrssXAAXXssssss</text>
+    <text x="27" y="150.75" fill="#8babbc" font-size="7.8" xml:space="preserve">,,:,.,,....  ...,,.   .  .    ...;sAsi;::,;i:::;irrsX22XsXssssss</text>
+    <text x="27" y="158.50" fill="#8babbc" font-size="7.8" xml:space="preserve">,,,..,:..     . ..            .:,;;rsrir;ir25s;;irsXA2AssXssssss</text>
+    <text x="27" y="166.25" fill="#8babbc" font-size="7.8" xml:space="preserve">,,,,.,,.. .  ..                  ,;;irrsrssh#ShrrrsXXAAssXssssss</text>
+    <text x="27" y="174.00" fill="#8babbc" font-size="7.8" xml:space="preserve">,,:,.,,.....  .       .      ..,,:;;;;rsXrX353M2rsssXAAssXssssss</text>
+    <text x="27" y="181.75" fill="#8babbc" font-size="7.8" xml:space="preserve">,,,,..,,....            ..,;sXAAAs;;ii;;;;sr:iA5rXXsXAAXsXssXXXs</text>
+    <text x="27" y="189.50" fill="#8babbc" font-size="7.8" xml:space="preserve">,,:,..,,...          ..,:rXA22255AsrrrsssXXXi;X2sXXsXAAXsXssXXXX</text>
+    <text x="27" y="197.25" fill="#8babbc" font-size="7.8" xml:space="preserve">:,:,..,,..         ,isXA55222222253hHHMMHMMhXiiAsXXsXAAXsXssXXXX</text>
+    <text x="27" y="205.00" fill="#8babbc" font-size="7.8" xml:space="preserve">:,,,..,,. .    .   ,XA25552222223MHS#B&amp;&amp;@BH3Ars2rXXsA2AXXXXXXXAA</text>
+    <text x="27" y="212.75" fill="#8babbc" font-size="7.8" xml:space="preserve">:,,,..,,. ..   .   isi;::,;irsA25552AA2hH#9ShX5XsXXsA22XXAXAAA25</text>
+    <text x="27" y="220.50" fill="#8babbc" font-size="7.8" xml:space="preserve">:,,,..,,. ..    . :X;::;;;,..,iXXri;:;isXX5S9rAXXAAX252AA2253hHG</text>
+    <text x="27" y="228.25" fill="#8babbc" font-size="7.8" xml:space="preserve">:,,,..,,. .     . .;ssr;::,::,irsssXrirA5hhhMrrsXAAX5h333hhMMh32</text>
+    <text x="27" y="236.00" fill="#8babbc" font-size="7.8" xml:space="preserve">:,,,..,,. ..    ,,;ssr;:,...::r23ssi,.,;rAHhhArrX255hHGM35AXsrrr</text>
+    <text x="27" y="243.75" fill="#8babbc" font-size="7.8" xml:space="preserve">,,,,..,,.... .. ;irXA2AXriiss:2SB2iArrXAA3#H#MGAX3h3552Xrsrrrrrr</text>
+    <text x="27" y="251.50" fill="#8babbc" font-size="7.8" xml:space="preserve">,,,,..,,.... .. :rsAX532AXsr:2#B@&amp;225AA2M9S#9S32rsssXXsrrXrrsrrr</text>
+    <text x="27" y="259.25" fill="#8babbc" font-size="7.8" xml:space="preserve">,,,,..,,...  .. :irA233AXri;A33hG9#MhhHG#S999HhXirrsXAXsrXrrsrrr</text>
+    <text x="27" y="267.00" fill="#8babbc" font-size="7.8" xml:space="preserve">,,,,..::.... .. .riA2552AAsr2ri2M35GhA23MGSSBMMiirssXXsssXrrrrrr</text>
+    <text x="27" y="274.75" fill="#8babbc" font-size="7.8" xml:space="preserve">,,,,..::........ r:s22222Xsrr:,rAr;X32X5hMHGGH2;irrsXXsrrXrrrrrr</text>
+    <text x="27" y="282.50" fill="#8babbc" font-size="7.8" xml:space="preserve">,,,,..::.... ..  ;.,s22Ar,,,..,ii;:,:,:XhHGhX3s;irrsXXsrrsrrrirr</text>
+    <text x="27" y="290.25" fill="#8babbc" font-size="7.8" xml:space="preserve">,,,. .:,. .  ..     :rXi..,:;irssAAAX; :Ah2s;i;iirrrXXsrrsrrrirs</text>
+    <text x="27" y="298.00" fill="#8babbc" font-size="7.8" xml:space="preserve">,,,. .,.  . .... ..  .;i,;rrXXXXA23h3X,:AA;::;;iirrrXXsrrsriiirr</text>
+    <text x="27" y="305.75" fill="#8babbc" font-size="7.8" xml:space="preserve">,,,. .,.  . ......,.  :: :X2Xrisrrr2hX,;si:,:;;iirrrsssrrsiiiirr</text>
+    <text x="27" y="313.50" fill="#8babbc" font-size="7.8" xml:space="preserve">,,,. .,. .. ... ....     .;sXri,,r55A;.:;:.:;;;iiiiirrrirriiiirr</text>
+    <text x="27" y="321.25" fill="#8babbc" font-size="7.8" xml:space="preserve">,,,. .,. ..  .. ..,.,;     .;i;;irsi,...:.si;;;is253h52XXXrr;;ii</text>
+    <text x="27" y="329.00" fill="#8babbc" font-size="7.8" xml:space="preserve">,,,. .,....  .  ....X2r.      . .,,    .;2S2:;ii2MGS999999SSGHHh</text>
+    <text x="27" y="336.75" fill="#8babbc" font-size="7.8" xml:space="preserve">,,,...:. ..  .. ..,AG22X;.           .;AMG#@2::iA553hMMMGSS#99B&amp;</text>
+    <text x="27" y="344.50" fill="#8babbc" font-size="7.8" xml:space="preserve">,,,. .,. .. ..   :X595XA2Xi:... ..,;s2MHGH9@@S5sXXsXA2225h33hhMH</text>
+    <text x="27" y="352.25" fill="#8babbc" font-size="7.8" xml:space="preserve">,,,. .,,..   .:;s22AB9MAXAAXssssX23hMMM3hB@&amp;@@@&amp;9SHhh2srX2AAAA53</text>
+    <text x="27" y="360.00" fill="#8babbc" font-size="7.8" xml:space="preserve">::::,,:,.,;rA55255AA9BBSh2XXXXXAA25hh5XAS@@B@@@@@@@@@@9H5AXssrsX</text>
+    <text x="27" y="367.75" fill="#8babbc" font-size="7.8" xml:space="preserve">;;:,.,r5hMHh5222252sH9#99#H3AXAA255AsXMB&amp;@@S&amp;@@@@@@@@@@@@&amp;BB9#SH</text>
+    <text x="27" y="375.50" fill="#8babbc" font-size="7.8" xml:space="preserve">;isX2MSGh2AXA225535XA#####99SM2AXXXXM9B9&amp;&amp;#2&amp;@@@@@@@@@@@@@@@@@@@</text>
+    <text x="27" y="383.25" fill="#8babbc" font-size="7.8" xml:space="preserve">GGSSGGhAXAA222553522;hB######BB522AH&amp;99B&amp;&amp;&amp;A9@@@@@@@@@@@@@@@@@@@</text>
+    <text x="27" y="391.00" fill="#8babbc" font-size="7.8" xml:space="preserve">GHHMM5AA2A2225535225riG99BBB&amp;Gi,,,:;2#&amp;&amp;@@@2#@@@@@@@@&amp;B&amp;@@@@@@@@</text>
+    <text x="27" y="398.75" fill="#8babbc" font-size="7.8" xml:space="preserve">MMMh2AAAA2AA253525223A2SBB&amp;&amp;5. ,  .,;;3&amp;@@&amp;5#@@@@@@@S29&amp;9B@@@@@@</text>
+    <text x="27" y="406.50" fill="#8babbc" font-size="7.8" xml:space="preserve">hh3222AAXAA255522222MHhh#B#2i:.    ,;222S&amp;&amp;MG@@@@@@@B&amp;@@&amp;B9&amp;@@@@</text>
+    <text x="27" y="414.25" fill="#8babbc" font-size="7.8" xml:space="preserve">h35222AAAAXA555222223GHHM9h25s;;,..:3HHhGB@SH&amp;&amp;&amp;@@@@@@&amp;&amp;@@&amp;B&amp;@@@</text>
+    <text x="27" y="422.00" fill="#8babbc" font-size="7.8" xml:space="preserve">35522AAAA22A225522222GGHMGSGGGX:X:,,MH&amp;@@@@BMB@&amp;@&amp;@@@@@&amp;&amp;@@@&amp;&amp;&amp;&amp;</text>
+    <text x="27" y="429.75" fill="#8babbc" font-size="7.8" xml:space="preserve">5552AXXA2AA222222225AhGHHGSS#G;i; ..:S@@@@@@M9@&amp;&amp;&amp;&amp;@@@@&amp;&amp;@@@&amp;&amp;&amp;&amp;</text>
+    <text x="27" y="437.50" fill="#8babbc" font-size="7.8" xml:space="preserve">5552AXsA2A222222225255GGS#SSS3r:..,,:S@@@@@@MS@&amp;&amp;&amp;&amp;&amp;&amp;@&amp;&amp;&amp;&amp;@@@&amp;&amp;&amp;</text>
+    <text x="27" y="445.25" fill="#8babbc" font-size="7.8" xml:space="preserve">5555AXXA2A222222222233HSG###S2i .::;59B@@@@@HG@&amp;&amp;&amp;BB&amp;&amp;&amp;&amp;B&amp;&amp;&amp;&amp;&amp;&amp;&amp;</text>
+    <text x="27" y="453.00" fill="#8babbc" font-size="7.8" xml:space="preserve">2532AXA2222222555552hMh#GS9#Gi,,,,;AHSM&amp;@@@@GM&amp;&amp;&amp;BBBB&amp;&amp;&amp;&amp;BB&amp;B&amp;&amp;&amp;</text>
+    <text x="27" y="460.75" fill="#8babbc" font-size="7.8" xml:space="preserve">A332AA2A522222255552hHhS#G99H:::::;hHA29@@@@Sh&amp;&amp;&amp;&amp;BBBBBB&amp;&amp;&amp;&amp;&amp;&amp;BB</text>
+    <text x="27" y="468.50" fill="#8babbc" font-size="7.8" xml:space="preserve">53552A2A522225225552hGMG9S#Bh:;::iA3:rsH@@&amp;@#3&amp;&amp;&amp;&amp;&amp;&amp;BBBBB&amp;&amp;&amp;&amp;&amp;&amp;B</text>
+    <text x="27" y="476.25" fill="#8babbc" font-size="7.8" xml:space="preserve">333522AA522525255552hGHH9#SB5,i:;25:.:s3&amp;@&amp;@#5B&amp;&amp;&amp;&amp;B&amp;BBBBBB&amp;BB&amp;&amp;</text>
+    <text x="363" y="117" fill="#79c0ff" font-size="17" font-weight="bold">GuilhermeVozniak<tspan fill="#8b949e">@</tspan>github</text>
+    <path d="M363 132H966" stroke="#30363d"/>
+    <text x="363" y="159" fill="#d2a66d">Name</text>
+    <text x="523" y="159" fill="#484f58">:</text>
+    <text x="541" y="159" fill="#c9d1d9">Guilherme Vozniak</text>
+    <text x="363" y="181" fill="#d2a66d">Role</text>
+    <text x="523" y="181" fill="#484f58">:</text>
+    <text x="541" y="181" fill="#c9d1d9">Full-Stack Software Engineer</text>
+    <text x="363" y="203" fill="#d2a66d">Location</text>
+    <text x="523" y="203" fill="#484f58">:</text>
+    <text x="541" y="203" fill="#c9d1d9">Italy</text>
+    <text x="363" y="242" fill="#d2a66d">Languages.Code</text>
+    <text x="523" y="242" fill="#484f58">:</text>
+    <text x="541" y="242" fill="#c9d1d9">Go, TypeScript, JavaScript</text>
+    <text x="363" y="264" fill="#d2a66d">Backend</text>
+    <text x="523" y="264" fill="#484f58">:</text>
+    <text x="541" y="264" fill="#c9d1d9">Go, Node.js, Bun</text>
+    <text x="363" y="286" fill="#d2a66d">Frontend</text>
+    <text x="523" y="286" fill="#484f58">:</text>
+    <text x="541" y="286" fill="#c9d1d9">React, Next.js, Angular, Vue</text>
+    <text x="363" y="308" fill="#d2a66d">Cloud</text>
+    <text x="523" y="308" fill="#484f58">:</text>
+    <text x="541" y="308" fill="#c9d1d9">AWS, GCP</text>
+    <text x="363" y="330" fill="#d2a66d">Infrastructure</text>
+    <text x="523" y="330" fill="#484f58">:</text>
+    <text x="541" y="330" fill="#c9d1d9">Docker, Kubernetes, Serverless</text>
+    <text x="363" y="369" fill="#d2a66d">Languages.Real</text>
+    <text x="523" y="369" fill="#484f58">:</text>
+    <text x="541" y="369" fill="#c9d1d9">Portuguese, English, Italian</text>
+    <text x="363" y="391" fill="#d2a66d">Exploring</text>
+    <text x="523" y="391" fill="#484f58">:</text>
+    <text x="541" y="391" fill="#c9d1d9">AI / LLM tooling, vector search</text>
+    <text x="363" y="413" fill="#d2a66d">Architecture</text>
+    <text x="523" y="413" fill="#484f58">:</text>
+    <text x="541" y="413" fill="#c9d1d9">Event-driven systems</text>
+    <text x="363" y="452" fill="#d2a66d">Email</text>
+    <text x="523" y="452" fill="#484f58">:</text>
+    <text x="541" y="452" fill="#c9d1d9">guilherme.voziak.a@gmail.com</text>
+    <text x="363" y="474" fill="#d2a66d">GitHub</text>
+    <text x="523" y="474" fill="#484f58">:</text>
+    <text x="541" y="474" fill="#c9d1d9">github.com/GuilhermeVozniak</text>
+    <path d="M30 501H966" stroke="#21262d"/>
+    <text x="30" y="525" fill="#7ee787">● <tspan fill="#8b949e">Open to collaborating on Go · Node · React projects</tspan></text>
+  </g>
+</svg>
