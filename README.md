@@ -25,13 +25,24 @@
 
 ---
 
-### More tools I work with
+### 🛠️ Tech stack as a Go struct
 
-| Area | Tools |
-| --- | --- |
-| Backend frameworks | NestJS, Express, Gin, Gorilla |
-| APIs | REST, GraphQL, gRPC, SOAP |
-| Messaging & caching | Kafka, RabbitMQ, Redis, SQS, SNS |
-| Databases & search | PostgreSQL, MySQL, MongoDB, Elasticsearch, OpenSearch, Pinecone |
-| Desktop | Electron |
-| Development & CI | Git, Linux, Jenkins |
+```go
+var stack = struct {
+    Backend   []string
+    Frontend  []string
+    APIs      []string
+    Events    []string
+    Databases []string
+    Cloud     []string
+    DevOps    []string
+}{
+    Backend:   []string{"Go", "Node.js", "Bun", "NestJS", "Express", "Gin", "Gorilla"},
+    Frontend:  []string{"TypeScript", "JavaScript", "Next.js", "React", "Angular", "Vue", "Electron"},
+    APIs:      []string{"REST", "GraphQL", "gRPC", "SOAP"},
+    Events:    []string{"Kafka", "RabbitMQ", "Redis", "SQS", "SNS"},
+    Databases: []string{"PostgreSQL", "MySQL", "MongoDB", "Elasticsearch", "OpenSearch", "Pinecone"},
+    Cloud:     []string{"AWS", "GCP"},
+    DevOps:    []string{"Docker", "Kubernetes", "Serverless", "Jenkins", "Git", "Linux"},
+}
+```
