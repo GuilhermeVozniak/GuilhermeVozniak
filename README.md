@@ -28,21 +28,29 @@
 ### 🛠️ Tech stack as a Go struct
 
 ```go
-var stack = struct {
-    Backend   []string
-    Frontend  []string
-    APIs      []string
-    Events    []string
-    Databases []string
-    Cloud     []string
-    DevOps    []string
-}{
-    Backend:   []string{"Go", "Node.js", "Bun", "NestJS", "Express", "Gin", "Gorilla"},
-    Frontend:  []string{"TypeScript", "JavaScript", "Next.js", "React", "Angular", "Vue", "Electron"},
-    APIs:      []string{"REST", "GraphQL", "gRPC", "SOAP"},
-    Events:    []string{"Kafka", "RabbitMQ", "Redis", "SQS", "SNS"},
-    Databases: []string{"PostgreSQL", "MySQL", "MongoDB", "Elasticsearch", "OpenSearch", "Pinecone"},
-    Cloud:     []string{"AWS", "GCP"},
-    DevOps:    []string{"Docker", "Kubernetes", "Serverless", "Jenkins", "Git", "Linux"},
+package developer
+
+// TechStack is the toolkit I use to build and ship software.
+type TechStack struct {
+	Backend   []string
+	Frontend  []string
+	APIs      []string
+	Events    []string
+	Databases []string
+	Cloud     []string
+	DevOps    []string
+}
+
+// NewTechStack returns my go-to technologies.
+func NewTechStack() *TechStack {
+	return &TechStack{
+		Backend:   []string{"Go", "Node.js", "Bun", "NestJS", "Express", "Gin", "Gorilla"},
+		Frontend:  []string{"TypeScript", "JavaScript", "Next.js", "React", "Angular", "Vue", "Electron"},
+		APIs:      []string{"REST", "GraphQL", "gRPC", "SOAP"},
+		Events:    []string{"Kafka", "RabbitMQ", "Redis", "SQS", "SNS"},
+		Databases: []string{"PostgreSQL", "MySQL", "MongoDB", "Elasticsearch", "OpenSearch", "Pinecone"},
+		Cloud:     []string{"AWS", "GCP"},
+		DevOps:    []string{"Docker", "Kubernetes", "Serverless", "Jenkins", "Git", "Linux"},
+	}
 }
 ```
